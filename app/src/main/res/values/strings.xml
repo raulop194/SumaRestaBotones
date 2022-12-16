@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SumaRestaBotones</string>
+    <string name="counterPlusText">+</string>
+    <string name="counterMinusText">-</string>
+    <string name="inputNumText">Numero no negativo</string>
+    <string name="clearEditFocusText">Quitar foco</string>
+</resources>
